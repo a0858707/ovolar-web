@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "buildSha": "143fa782e408568ad0098c6697d2de2d94666cf5",
+  "features": [
+    "snake-toroidal-wrap",
+    "snake-obstacles",
+    "snake-extra-lives",
+    "snake-arena-expansion",
+    "snake-theme-progression",
+    "appearance-cyberbank-neon-default",
+    "appearance-light",
+    "block",
+    "2048",
+    "snake",
+    "sliding-puzzle",
+    "match-pairs",
+    "minesweeper",
+    "sudoku"
+  ]
+}
