@@ -1,6 +1,6 @@
 {
   "version": "0.2.0",
-  "buildSha": "1c76adbd8c298cd974d3d0a5aabf1771efec0ec6",
+  "buildSha": "e51501f3e498715c86cea9712050190dd1b164fb",
   "features": [
     "snake-toroidal-wrap",
     "snake-obstacles",
