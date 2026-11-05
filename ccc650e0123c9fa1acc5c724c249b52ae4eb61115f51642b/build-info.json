@@ -1,6 +1,6 @@
 {
   "version": "0.2.0",
-  "buildSha": "ca4b57cfbbf72e8b4bd8c61e0dfb7d3ebefa1330",
+  "buildSha": "1c76adbd8c298cd974d3d0a5aabf1771efec0ec6",
   "features": [
     "snake-toroidal-wrap",
     "snake-obstacles",
@@ -15,6 +15,7 @@
     "sliding-puzzle",
     "match-pairs",
     "minesweeper",
-    "sudoku"
+    "sudoku",
+    "mahjong"
   ]
 }
