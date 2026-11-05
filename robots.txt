@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /ccc650e0123c9fa1acc5c724c249b52ae4eb61115f51642b/
-Allow: /privacy/
+Allow: /
